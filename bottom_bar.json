@@ -5,12 +5,16 @@
       "id": "language",
       "icon": "lang",
       "action": "toggle_language",
+      "tooltip_pt": "Idioma",
+      "tooltip_en": "Language",
       "enabled": true
     },
     {
       "id": "theme",
       "icon": "theme",
       "action": "toggle_theme",
+      "tooltip_pt": "Tema",
+      "tooltip_en": "Theme",
       "enabled": true
     },
     {
@@ -18,8 +22,8 @@
       "icon": "telegram",
       "action": "open_url",
       "url": "https://t.me/kitsunesuporte",
-      "tooltip_pt": "Suporte Telegram",
-      "tooltip_en": "Telegram Support",
+      "tooltip_pt": "Ajuda",
+      "tooltip_en": "Help",
       "enabled": true
     },
     {
