@@ -1,19 +1,16 @@
 {
+  "show_update_for_versions_below": 34,
   "left_icons": [
     {
       "id": "language",
       "icon": "lang",
       "action": "toggle_language",
-      "tooltip_pt": "Idioma",
-      "tooltip_en": "Language",
       "enabled": true
     },
     {
       "id": "theme",
       "icon": "theme",
       "action": "toggle_theme",
-      "tooltip_pt": "Tema",
-      "tooltip_en": "Theme",
       "enabled": true
     },
     {
@@ -23,6 +20,15 @@
       "url": "https://t.me/kitsunesuporte",
       "tooltip_pt": "Suporte Telegram",
       "tooltip_en": "Telegram Support",
+      "enabled": true
+    },
+    {
+      "id": "update",
+      "icon": "update",
+      "action": "open_url",
+      "url": "https://seusite.com/update",
+      "tooltip_pt": "Nova versão disponível",
+      "tooltip_en": "New version available",
       "enabled": true
     }
   ]
