@@ -22,15 +22,15 @@
       "icon": "telegram",
       "action": "open_url",
       "url": "https://t.me/kitsunesuporte",
-      "tooltip_pt": "Ajuda",
-      "tooltip_en": "Help",
+      "tooltip_pt": "Telegram",
+      "tooltip_en": "Telegram",
       "enabled": true
     },
     {
       "id": "update",
       "icon": "update",
       "action": "open_url",
-      "url": "https://seusite.com/update",
+      "url": "https://www.google.com",
       "tooltip_pt": "Nova versão disponível",
       "tooltip_en": "New version available",
       "enabled": true
