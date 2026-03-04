@@ -1,5 +1,5 @@
 {
-  "show_update_for_versions_below": v33,
+  "show_update_for_versions_below": 34,
   "left_icons": [
     {
       "id": "language",
