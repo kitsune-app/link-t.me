@@ -7,7 +7,7 @@
       "action": "toggle_language",
       "tooltip_pt": "Idioma",
       "tooltip_en": "Language",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "theme",
@@ -15,7 +15,7 @@
       "action": "toggle_theme",
       "tooltip_pt": "Tema",
       "tooltip_en": "Theme",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "telegram",
