@@ -1,6 +1,5 @@
 {
-  "show_update_for_versions_below": "1.0",
-  "show_update_button": true,
+  "show_update_for_versions_below": "1.2",
   "left_icons": [
     {
       "id": "language",
@@ -22,7 +21,7 @@
       "id": "telegram",
       "icon": "telegram",
       "action": "open_url",
-      "url": "https://t.me/kitsunesuporte",
+      "url": "https://t.me/+WHdPYv98RI1iOGRh",
       "tooltip_pt": "Telegram",
       "tooltip_en": "Telegram",
       "enabled": true
