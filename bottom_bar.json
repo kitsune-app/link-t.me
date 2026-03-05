@@ -1,5 +1,5 @@
 {
-  "show_update_for_versions_below": "1.2",
+  "show_update_for_versions_below": "1.0",
   "left_icons": [
     {
       "id": "language",
@@ -24,7 +24,7 @@
       "url": "https://t.me/+WHdPYv98RI1iOGRh",
       "tooltip_pt": "Telegram",
       "tooltip_en": "Telegram",
-      "enabled": true
+      "enabled": false
     },
     {
       "id": "update",
