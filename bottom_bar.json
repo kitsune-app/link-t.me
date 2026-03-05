@@ -24,7 +24,7 @@
       "url": "https://t.me/+WHdPYv98RI1iOGRh",
       "tooltip_pt": "Telegram",
       "tooltip_en": "Telegram",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "update",
