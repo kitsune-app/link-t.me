@@ -1,5 +1,5 @@
 {
-  "show_update_for_versions_below": "1.1",
+  "show_update_for_versions_below": "1.0",
   "left_icons": [
     {
       "id": "language",
@@ -7,7 +7,7 @@
       "action": "toggle_language",
       "tooltip_pt": "Idioma",
       "tooltip_en": "Language",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "theme",
@@ -15,7 +15,7 @@
       "action": "toggle_theme",
       "tooltip_pt": "Tema",
       "tooltip_en": "Theme",
-      "enabled": false
+      "enabled": true
     },
     {
       "id": "telegram",
