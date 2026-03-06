@@ -1,5 +1,6 @@
 {
-  "show_update_for_versions_below": "1.0",
+  "show_update_for_versions_below": "1.2",
+  "extra_menu_enabled": true,
   "left_icons": [
     {
       "id": "language",
