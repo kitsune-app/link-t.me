@@ -36,5 +36,20 @@
       "tooltip_en": "New version available",
       "enabled": true
     }
+  ],
+
+  "menu_items": [
+    {
+      "label_pt": "Documentação",
+      "label_en": "Documentation",
+      "action": "open_url",
+      "url": "https://www.google.com"
+    },
+    {
+      "label_pt": "Suporte",
+      "label_en": "Support",
+      "action": "open_url",
+      "url": "https://t.me/+WHdPYv98RI1iOGRh"
+    }
   ]
 }
