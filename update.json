@@ -1,5 +1,5 @@
 {
-  "update_enabled": true,
+  "min_version": "1.1",
   "update_url": "https://seusite.com/download",
   "tooltip_pt": "Nova versão disponível",
   "tooltip_en": "New version available"
