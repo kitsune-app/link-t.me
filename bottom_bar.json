@@ -1,5 +1,5 @@
 {
-  "show_update_for_versions_below": "1.0",
+  "show_update_for_versions_below": "1.1",
   "extra_menu_enabled": true,
   "left_icons": [
     {
@@ -44,12 +44,6 @@
       "label_en": "Documentation",
       "action": "open_url",
       "url": "https://www.google.com"
-    },
-    {
-      "label_pt": "Suporte",
-      "label_en": "Support",
-      "action": "open_url",
-      "url": "https://t.me/+WHdPYv98RI1iOGRh"
     }
   ]
 }
