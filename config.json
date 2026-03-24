@@ -1,4 +1,11 @@
 {
   "buy_link": "https://t.me/kitsunesuporte",
-  "help_link": "https://t.me/+WHdPYv98RI1iOGRh"
+  "help_link": "https://seusite.com/suporte",
+
+  "menu_enabled": true,
+  "menu_links": [
+    {"name": "Site Oficial", "url": "https://seusite.com"},
+    {"name": "Promoções", "url": "https://seusite.com/promo"},
+    {"name": "Discord", "url": "https://discord.gg/seulink"}
+  ]
 }
