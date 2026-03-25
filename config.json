@@ -2,7 +2,7 @@
   "buy_link": "https://t.me/kitsunesuporte",
   "help_link": "https://seusite.com/suporte",
 
-  "menu_enabled": true,
+  "menu_enabled": false,
   "menu_links": [
     {"name": "Site Oficial", "url": "https://seusite.com"},
     {"name": "Promoções", "url": "https://seusite.com/promo"},
