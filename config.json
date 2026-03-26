@@ -1,7 +1,14 @@
 {
   "buy_link": "https://t.me/kitsunesuporte",
   "help_link": "https://seusite.com/suporte",
-  "youtube_button": {"enabled": true,"url": "https://youtube.com"},
+  "youtube_menu": {
+  "enabled": true,
+  "links": [
+    {"name": "Canal Principal", "url": "https://youtube.com/..."},
+    {"name": "Tutoriais", "url": "https://youtube.com/..."},
+    {"name": "Shorts", "url": "https://youtube.com/..."}
+  ]
+},
   "menu_enabled": true,
   "menu_links": [
     {"name": "Site Oficial", "url": "https://seusite.com"},
