@@ -2,7 +2,7 @@
   "buy_link": "https://t.me/kitsunesuporte",
   "help_link": "https://web.telegram.org/k/?account=2#-5195165112",
   "youtube_menu": {
-  "enabled": false,
+  "enabled": true,
   "links": [
     {"name": "Configurando mapa LEGO", "url": "https://youtu.be/k2f3Pz5A_4o"}
   ]
