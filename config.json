@@ -7,7 +7,7 @@
     {"name": "Configurando mapa LEGO", "url": "https://youtu.be/k2f3Pz5A_4o"}
   ]
 },
-  "menu_enabled": false,
+  "menu_enabled": true,
   "menu_links": [
     {"name": "Site Oficial", "url": "https://seusite.com"},
     {"name": "Promoções", "url": "https://seusite.com/promo"},
