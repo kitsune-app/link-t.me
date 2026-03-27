@@ -1,0 +1,9 @@
+{
+  "help_link": "https://web.telegram.org/...",
+  "youtube_menu": {
+    "enabled": true,
+    "links": [
+      {"name": "Configurar LEGO", "url": "https://youtu.be/k2f3Pz5A_4o"}
+    ]
+  }
+}
