@@ -6,6 +6,7 @@
       {"name": "Configurar LEGO", "url": "https://youtu.be/k2f3Pz5A_4o"},
       {"name": "video2", "url": "https://youtu.be/k2f3Pz5A_4o"},
       {"name": "video3", "url": "https://youtu.be/k2f3Pz5A_4o"}
-    ]
+    ],
+    "fallback_url": "https://youtube.com/seu-canal"
   }
 }
