@@ -1,7 +1,7 @@
 {
   "help_link": "https://t.me/kitsunesuporte",
   "youtube_menu": {
-    "enabled": false,
+    "enabled": true,
     "links": [],
     "fallback_url": "https://youtube.com/seu-canal"
   }
