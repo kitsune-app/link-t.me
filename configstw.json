@@ -1,8 +1,16 @@
 {
   "help_link": "https://t.me/kitsunesuporte",
   "youtube_menu": {
-    "enabled": true,
-    "links": [],
-    "fallback_url": "https://youtube.com/seu-canal"
+    "links": [
+      {
+        "name": "Canal principal",
+        "url": "https://youtube.com/@canalprincipal"
+      },
+      {
+        "name": "Tutoriais",
+        "url": "https://youtube.com/playlist?list=XXXX"
+      }
+    ],
+    "fallback_url": "https://youtube.com/@canalprincipal"
   }
 }
