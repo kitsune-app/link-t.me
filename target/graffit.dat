@@ -1,4 +1,3 @@
-hahahahaha
 {
   "config": {
     "confidence": 0.7,
@@ -9,9 +8,9 @@ hahahahaha
   },
 
   "targets": [
-    {"file":"01.png","clicks":2},
-    {"file":"02.png","clicks":2},
-    {"file":"03.png","clicks":2}
+    {"file":"ha.png","clicks":2},
+    {"file":"ha.png","clicks":2},
+    {"file":"ha.png","clicks":2}
   ]
 }
 
