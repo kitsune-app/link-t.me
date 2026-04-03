@@ -3,5 +3,10 @@
     "file": "default.dat",
     "version": 1
   },
-  "users": {}
+  "users": {
+    "1d5f4a36b350ac8b812e66dcf1b6f252019be10c6e4fd0cf4e50dae116926889": {
+      "file": "graffit.dat",
+      "version": 2
+    }
+  }
 }
