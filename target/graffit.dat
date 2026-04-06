@@ -1,6 +1,6 @@
 {
   "config": {
-    "confidence": 0.7,
+    "confidence": 0.85,
     "intervalo": 0.30,
     "click_delay": 1.0,
     "click_cooldown": 2.5,
@@ -8,9 +8,26 @@
   },
 
   "targets": [
-    {"file":"ha.png","clicks":2},
-    {"file":"ha.png","clicks":2},
-    {"file":"ha.png","clicks":2}
+    {"file":"abrir.png","clicks":2},
+    {"file":"coletar.png","clicks":2},
+    {"file":"mapa.png","clicks":2},
+    {"file":"planketon1.png","clicks":2},
+    {"file":"planketon2.png","clicks":2},
+    {"file":"base.png","clicks":2},
+    {"file":"base2.png","clicks":2},
+    {"file":"lancar.png","clicks":2},
+    {"file":"lancar_yellow.png","clicks":2,"cooldown":5},
+    {"file":"b-base.png","action":"hold_keys","sequence":[["w",2.4],["d",3.2]]},
+    {"file":"f-menu.png","action":"hold_keys","sequence":[["f",2.0]],"post_delay": 3.0},
+    {"file":"escudo.png","clicks":2},
+    {"file":"resistencia.png","timer":"start","clicks":2,"delay_before_click":1.0,"delay_after_click":1.0,
+     "action":"hold_keys","sequence":[["s",1.5],["d",4.8],["w",1.4]],"count":true,"post_delay":7200},
+    {"file":"continuar1.png","clicks":2},
+    {"file":"continuar2.png","clicks":2},
+    {"file":"continuar3.png","action":"hold_keys","sequence":[["esc",1.0]]},
+    {"file":"coletarefechar.png","clicks":2},
+    {"file":"retorno1.png","timer":"stop","clicks":2},
+    {"file":"retorno2.png","timer":"stop","clicks":2}
   ]
 }
 
