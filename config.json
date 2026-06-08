@@ -9,8 +9,6 @@
 },
   "menu_enabled": false,
   "menu_links": [
-    {"name": "Site Oficial", "url": "https://seusite.com"},
-    {"name": "Promoções", "url": "https://seusite.com/promo"},
-    {"name": "Discord", "url": "https://discord.gg/seulink"}
+    {"name": "Nova versão", "url": "https://pastebin.com/raw/iAPB9a9y"}
   ]
 }
