@@ -11,7 +11,6 @@
 },
   "menu_enabled": true,
   "menu_links": [
-    {"name": "Atualização", "url": "https://sites.google.com/view/kitsuneapp/"},
-    {"name": "EasyXP link direto", "url": "https://download1346.mediafire.com/r9mbk0rhfjfglM6AylAclO0yWGatvU0ZjfAPej_drOBl4cZFERArfNQySK734F5AR9sMvT3ltjtaTgiQ3IWREaCAOwFA2T6cs9jJGiv5pmTLYt-wOfPjDRXIxkeEORoN3pd5FqSP9ukKsEON4RB6yS9KLVRG_ZAVvXsU3bPSFHUGOg/vvj2op33ia7ok2a/Setup_EasyXP_1.2.exe"},
+    {"name": "Atualização", "url": "https://sites.google.com/view/kitsuneapp/"}
   ]
 }
