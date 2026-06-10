@@ -11,6 +11,7 @@
 },
   "menu_enabled": true,
   "menu_links": [
-    {"name": "Atualização", "url": "https://sites.google.com/view/kitsuneapp/"}
+    {"name": "Atualização", "url": "https://sites.google.com/view/kitsuneapp/"},
+    {"name": "Atualização", "url": "https://google.com"}
   ]
 }
