@@ -9,7 +9,7 @@
     {"name": "Configurando mapa LEGO", "url": "https://youtu.be/k2f3Pz5A_4o"}
   ]
 },
-  "menu_enabled": false,
+  "menu_enabled": true,
   "menu_links": [
     {"name": "Atualização", "url": "https://luxury-taffy-b6cb2a.netlify.app/"}
   ]
