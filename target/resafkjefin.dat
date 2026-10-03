@@ -1,0 +1,40 @@
+{
+  "config": {
+    "confidence": 0.83,
+    "intervalo": 0.18,
+    "click_delay": 0.7,
+    "click_cooldown": 2.5,
+    "triple_click_gap": 0.08
+  },
+
+  "targets": [
+    {"file":"para_base.png","timer":"stop","action":"hold_keys","sequence":[["c",7.0]]},
+    {"file":"picture1.png","clicks":2,"delay_before_click":1.0,"delay_after_click":1.0,"action":"hold_keys","sequence":[["tab",0.2]]},
+    {"file":"picture2.png","clicks":2,"delay_before_click":1.0,"delay_after_click":1.0,"action":"hold_keys","sequence":[["tab",0.2]]},
+    {"file":"menumapa.png","clicks":2},
+    {"file":"maptwine.png","clicks":2},
+    {"file":"maptwine2.png","clicks":2},
+    {"file":"maptwine3.png","clicks":2},
+    {"file":"maptwine4.png","clicks":2},
+    {"file":"basetwine.png","clicks":2,"delay_after_click":2.0},
+    {"file":"basetwine2.png","clicks":2,"delay_after_click":1.0},
+    {"file":"lancar.png","clicks":2},
+    {"file":"lancar_yellow.png","delay_before_click":1.5,"clicks":2,"cooldown":5},
+    {"file":"abrirmenu.png","action":"hold_keys","sequence":[["i",2.0]]},
+    {"file":"abrirmenuplank.png","action":"hold_keys","sequence":[["i",2.0]]},
+    {"file":"menuescudo.png","clicks":2},
+    {"file":"nohelp.png","clicks":2},
+    {"file":"nohelp2.png","clicks":2},
+    {"file":"resistencia.png","timer":"start","clicks":2,"delay_before_click":0.7,"delay_after_click":0.7,"count":true,"post_delay":7200},
+    {"file":"altescudo.png","clicks":2},
+    {"file":"continuar2.png","action":"hold_keys","sequence":[["Esc",4.0]]},
+    {"file":"continuar1.png","clicks":2},
+    {"file":"abrir.png","clicks":2},
+    {"file":"coletar.png","clicks":2},
+    {"file":"coletarefechar.png","clicks":2},
+    {"file":"recebeu.png","action":"hold_keys","sequence":[["space",0.2]]}
+
+
+  ]
+}
+
