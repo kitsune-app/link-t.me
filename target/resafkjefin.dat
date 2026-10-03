@@ -25,7 +25,7 @@
     {"file":"menuescudo.png","clicks":2},
     {"file":"nohelp.png","clicks":2},
     {"file":"nohelp2.png","clicks":2},
-    {"file":"resistencia.png","timer":"start","clicks":2,"delay_before_click":0.7,"delay_after_click":0.7,"count":true,"post_delay":7200},
+    {"file":"resistencia.png","timer":"start","clicks":2,"delay_before_click":0.7,"delay_after_click":0.7,"count":true,"post_delay":3600},
     {"file":"altescudo.png","clicks":2},
     {"file":"continuar2.png","action":"hold_keys","sequence":[["Esc",4.0]]},
     {"file":"continuar1.png","clicks":2},
